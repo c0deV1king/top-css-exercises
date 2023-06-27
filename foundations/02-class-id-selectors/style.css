@@ -1,0 +1,19 @@
+p {
+    background-color: rgb(233,39,162);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#secondElement {
+    color: rgb(39,110,233);
+    font-size: 36px;
+}
+
+.thirdElement {
+    font-size: 24px;
+}
+
+#fourthElement {
+    background-color: rgb(126,228,123);
+    /*font-size: 24px;  this is duplicated, I can instead use the class from above*/
+    font-weight: bold;
+}
