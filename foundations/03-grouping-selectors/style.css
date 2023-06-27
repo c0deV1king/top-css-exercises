@@ -1,0 +1,19 @@
+#firstElement {
+    background-color: black;
+    color: white;
+}
+#secondElement {
+    background-color: yellow;
+}
+.sharedStyles {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+/* a cleaner method would be 
+.firstElement{ styles }
+
+.secondElement{ styles }
+
+.firstElement,
+.secondElement { shared styles }
